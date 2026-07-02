@@ -1,5 +1,5 @@
 # Well_Log_Analysis
-Well Log Analysis using Python 
+Python application for petrophysical analysis and visualisation of LAS well log
 
 ## Overview
 This project performs petrophysical analysis of LAS well log data using python.
