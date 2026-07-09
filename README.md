@@ -17,3 +17,23 @@ The project emphasizes data preprocessing, visualization, and analytical workflo
 - Compute acoustic impedance.
 - Analyze velocity logs.
 - Generate synthetic seismic responses.
+
+## Technology Stack
+
+- **Python**
+- **Pandas**
+- **NumPy**
+- **Matplotlib**
+- **Seaborn**
+- **Lasio**
+- **Jupyter Notebook**
+
+
+
+
+
+
+
+
+
+
