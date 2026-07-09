@@ -1,5 +1,11 @@
 # Well Log Analysis using Python
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 ## Overview
 
 This repository demonstrates a Python-based workflow for processing, analyzing, and visualizing LAS well log data. The implementation highlights scientific computing techniques using Python to transform raw well log measurements into meaningful visualizations and derived petrophysical properties.
