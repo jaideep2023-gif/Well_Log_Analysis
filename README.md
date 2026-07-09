@@ -68,9 +68,23 @@ well_log_project.ipynb
 
 Run all cells sequentially to reproduce the analysis and visualizations.
 
+### Triple Combo Plot
 
+Integrated visualization of Gamma Ray, Resistivity, Density, and Neutron logs generated using Matplotlib.
 
+![Triple Combo](plots/triple_combo_log.png)
 
+### Porosity plots
+Visualization of density porosity, neutron porosity, and total porosity
+
+![Porosity plot](plots/porosity_plots.png)
+
+### Pickett Plot
+
+![Triple Combo](plots/pickett_plot.png)
+
+### Velocity Plot
+ ![Triple Combo](plots/velocity_plot.png)
 
 
 
