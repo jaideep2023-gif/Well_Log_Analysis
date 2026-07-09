@@ -77,14 +77,14 @@ Integrated visualization of Gamma Ray, Resistivity, Density, and Neutron logs ge
 ### Porosity plots
 Visualization of density porosity, neutron porosity, and total porosity
 
-![Porosity plot](plots/porosity_plots.png)
+![Porosity plot](plots/porosity_logs.png)
 
 ### Pickett Plot
 
 ![Triple Combo](plots/pickett_plot.png)
 
 ### Velocity Plot
- ![Triple Combo](plots/velocity_plot.png)
+ ![Triple Combo](plots/velocity_plots.png)
 
 
 
