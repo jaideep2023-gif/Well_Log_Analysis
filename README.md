@@ -40,7 +40,33 @@ This repository presents the software implementation developed as part of a team
 - Improved visualization quality.
 - Organized documentation for GitHub.
 
+## How to Run
 
+### Clone the repository
+
+```bash
+git clone https://github.com/<your-github-username>/well-log-analysis-python.git
+```
+
+### Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Launch Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+Open:
+
+```text
+well_log_project.ipynb
+```
+
+Run all cells sequentially to reproduce the analysis and visualizations.
 
 
 
