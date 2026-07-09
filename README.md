@@ -28,6 +28,17 @@ The project emphasizes data preprocessing, visualization, and analytical workflo
 - **Lasio**
 - **Jupyter Notebook**
 
+## About
+
+This repository presents the software implementation developed as part of a team-based academic case study.
+
+### My Contributions
+
+- Refined and improved the Python workflow.
+- Debugged and optimized the notebook.
+- Enhanced data preprocessing.
+- Improved visualization quality.
+- Organized documentation for GitHub.
 
 
 
