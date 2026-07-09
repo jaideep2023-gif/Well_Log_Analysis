@@ -40,6 +40,29 @@ This repository presents the software implementation developed as part of a team
 - Improved visualization quality.
 - Organized documentation for GitHub.
 
+## Repository Structure
+
+```text
+well-log-analysis-python
+│
+├── data/
+│   └── ichthys_deep_1_welldata.las
+│
+├── notebooks/
+│   └── well_log_analysis.ipynb
+│
+├── plots/
+│   ├── Triple Combo Log.png
+│   ├── Porosity Logs.png
+│   ├── Pickett Plot.png
+│   ├── Impedance Plot.png
+│   ├── Velocity Plots.png
+│   └── Seismic Plots.png
+│
+├── README.md
+├── requirements.txt
+```
+
 ## How to Run
 
 ### Clone the repository
