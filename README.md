@@ -86,5 +86,12 @@ Visualization of density porosity, neutron porosity, and total porosity
 ### Velocity Plot
  ![Triple Combo](plots/velocity_plots.png)
 
+## Future Improvements
+
+- Refactor notebook code into reusable Python modules.
+- Build an interactive Streamlit dashboard.
+- Add support for processing multiple LAS files.
+- Implement automated report generation.
+- Improve code modularity and documentation.
 
 
